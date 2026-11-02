@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/daviwll">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=AI+Developer+Trainee+%40+Edge+Academy;LLM+%2B+RAG+%2B+Bancos+Vetoriais;Foco+em+Red+Team+e+Pentest;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=AI+Developer+Trainee+%40+Edge+Academy;Desenvolvimento+Full-Stack;Foco+em+Red+Team+e+Pentest;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -18,12 +18,12 @@
 
 ### Sobre mim
 
-Estudante de **Ciência da Computação na UFAL** e **AI Developer Trainee** no Centro de Inovação Edge (Programa Edge Academy), onde trabalho com desenvolvimento full-stack e soluções de IA (LLM, RAG, bancos vetoriais).
+Estudante de **Ciência da Computação na UFAL** e **AI Developer Trainee** no Centro de Inovação Edge (Programa Edge Academy), onde trabalho com desenvolvimento full-stack e soluções de IA.
 
 Meu foco de carreira é **Cibersegurança: Red Team e Pentest**. Também estudo programação competitiva para a Maratona SBC de Programação (ICPC).
 
 ```yaml
-agora:      [IA aplicada (LLM + RAG), backend, segurança ofensiva]
+agora:      [IA aplicada, backend, segurança ofensiva]
 estudando:  [pentest web, redes, estruturas de dados em C++]
 certificacao: Hackers do Bem (MCTI) — Básico, Fundamental e Red Team (2026)
 ```
