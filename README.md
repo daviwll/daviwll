@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b0000&height=180&section=header&text=Davi%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Rob%C3%B3tica&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b0000&height=180&section=header&text=Davi%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Rob%C3%B3tica&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/daviwll">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=AI+Developer+Trainee+%40+Edge+Academy;Desenvolvimento+Full-Stack;Estudando+Ciberseguran%C3%A7a+e+Rob%C3%B3tica;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%40+Edge+Academy;Kotlin+%7C+Java+%7C+C%23+%7C+Python;Estudando+Ciberseguran%C3%A7a+e+Rob%C3%B3tica;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/davisantos1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:daviszwilliam1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=daviwll&style=for-the-badge&color=8b0000&label=VISITAS"/>
+<a href="https://www.instagram.com/daviwilliam1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -18,12 +18,12 @@
 
 ### Sobre mim
 
-Estudante de **Ciência da Computação na UFAL** e **AI Developer Trainee** no Centro de Inovação Edge (Programa Edge Academy), onde trabalho com desenvolvimento full-stack e soluções de IA.
+Estudante de **Ciência da Computação na UFAL** e **Desenvolvedor Full-Stack** (bolsista) no Centro de Inovação Edge (Programa Edge Academy), onde trabalho com Kotlin. Antes, atuei em um projeto de IA para atendimento ao cliente.
 
 Tenho muito interesse em **Cibersegurança** (Red Team e Pentest) e em **Robótica**, áreas que venho estudando. Também estudo programação competitiva para a Maratona SBC de Programação (ICPC).
 
 ```yaml
-agora:      [IA aplicada, backend, segurança ofensiva]
+agora:      [desenvolvimento full-stack, Kotlin, backend]
 estudando:  [cibersegurança, robótica, redes, estruturas de dados em C++]
 certificacao: Hackers do Bem (MCTI) — Básico, Fundamental e Red Team (2026)
 ```
