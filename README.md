@@ -34,7 +34,7 @@ certificacao: Hackers do Bem (MCTI) — Básico, Fundamental e Red Team (2026)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,angular,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c,cs,angular,linux,git&theme=dark" />
 
 </div>
 
