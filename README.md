@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b0000&height=180&section=header&text=Davi%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20Red%20Team&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b0000&height=180&section=header&text=Davi%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20IA%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Rob%C3%B3tica&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/daviwll">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=AI+Developer+Trainee+%40+Edge+Academy;Desenvolvimento+Full-Stack;Foco+em+Red+Team+e+Pentest;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=AI+Developer+Trainee+%40+Edge+Academy;Desenvolvimento+Full-Stack;Estudando+Ciberseguran%C3%A7a+e+Rob%C3%B3tica;Estudando+para+a+Maratona+SBC+(ICPC)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -20,11 +20,11 @@
 
 Estudante de **Ciência da Computação na UFAL** e **AI Developer Trainee** no Centro de Inovação Edge (Programa Edge Academy), onde trabalho com desenvolvimento full-stack e soluções de IA.
 
-Meu foco de carreira é **Cibersegurança: Red Team e Pentest**. Também estudo programação competitiva para a Maratona SBC de Programação (ICPC).
+Tenho muito interesse em **Cibersegurança** (Red Team e Pentest) e em **Robótica**, áreas que venho estudando. Também estudo programação competitiva para a Maratona SBC de Programação (ICPC).
 
 ```yaml
 agora:      [IA aplicada, backend, segurança ofensiva]
-estudando:  [pentest web, redes, estruturas de dados em C++]
+estudando:  [cibersegurança, robótica, redes, estruturas de dados em C++]
 certificacao: Hackers do Bem (MCTI) — Básico, Fundamental e Red Team (2026)
 ```
 
@@ -42,11 +42,49 @@ certificacao: Hackers do Bem (MCTI) — Básico, Fundamental e Red Team (2026)
 
 ### Projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**N.O.M.E.**](https://github.com/daviwll/Proj-Redes) | **Trabalho acadêmico** (disciplina de Redes de Computadores, UFAL). Ferramenta cliente-servidor de administração remota (estilo C2) com execução de comandos, transferência de arquivos e criptografia AES, desenvolvida para estudo de técnicas de Red Team em ambiente controlado. | Python, sockets TCP, threading, Tkinter, Cryptography |
-| [**WePayU**](https://github.com/daviwll/Programacao-Orientada-a-Objetos) | **Trabalho acadêmico** (disciplina de Programação Orientada a Objetos, UFAL). Sistema de folha de pagamento com undo/redo, aplicando os padrões Command, Memento e Facade, validado por testes de aceitação. | Java, EasyAccept |
-| [**SEMAFARO-ED**](https://github.com/JohnWKenny/SEMAFARO-ED) | **Trabalho acadêmico em grupo** (disciplina de Estrutura de Dados, UFAL). Simulador de trânsito em uma cidade representada por matriz, com vias de mão única e dupla, semáforos, limites de velocidade e detecção de colisões. A movimentação dos carros usa pilhas. | C, cJSON |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+#### [N.O.M.E.](https://github.com/daviwll/Proj-Redes)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sockets_TCP-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/AES-8b0000?style=flat-square"/>
+
+<sub><i>Trabalho acadêmico · Redes de Computadores</i></sub>
+
+Ferramenta cliente-servidor de administração remota (estilo C2), com execução de comandos, transferência de arquivos e criptografia, para estudo de Red Team em laboratório.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### [WePayU](https://github.com/daviwll/Programacao-Orientada-a-Objetos)
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design_Patterns-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyAccept-2b7489?style=flat-square"/>
+
+<sub><i>Trabalho acadêmico · Programação Orientada a Objetos</i></sub>
+
+Sistema de folha de pagamento com undo/redo, usando os padrões Command, Memento e Facade e testes de aceitação.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### [SEMAFARO-ED](https://github.com/JohnWKenny/SEMAFARO-ED)
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Estrutura_de_Dados-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Em_grupo-8b0000?style=flat-square"/>
+
+<sub><i>Trabalho acadêmico · Estrutura de Dados</i></sub>
+
+Simulador de trânsito em uma cidade modelada como matriz, com semáforos, vias de mão única e dupla e detecção de colisões. Os carros se movem usando pilhas.
+
+</td>
+</tr>
+</table>
 
 ---
 
